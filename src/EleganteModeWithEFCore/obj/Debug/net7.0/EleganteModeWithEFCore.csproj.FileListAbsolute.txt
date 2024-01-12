@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/bin/Debug/net7.0/EleganteModeWithEFCore.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/bin/Debug/net7.0/EleganteModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/bin/Debug/net7.0/EleganteModeWithEFCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/refint/EleganteModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/EleganteModeWithEFCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EleganteModeWithEFCore/obj/Debug/net7.0/ref/EleganteModeWithEFCore.dll

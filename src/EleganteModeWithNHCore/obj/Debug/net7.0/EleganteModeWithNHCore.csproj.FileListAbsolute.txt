@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/bin/Debug/net7.0/EleganteModeWithNHCore.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/bin/Debug/net7.0/EleganteModeWithNHCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/bin/Debug/net7.0/EleganteModeWithNHCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/refint/EleganteModeWithNHCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/EleganteModeWithNHCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/EleganteModeWithNHCore/obj/Debug/net7.0/ref/EleganteModeWithNHCore.dll

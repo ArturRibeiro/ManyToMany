@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/bin/Debug/net7.0/DirtyModeWithEFCore.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/bin/Debug/net7.0/DirtyModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/bin/Debug/net7.0/DirtyModeWithEFCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/refint/DirtyModeWithEFCore.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/DirtyModeWithEFCore.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/DirtyModeWithEFCore/obj/Debug/net7.0/ref/DirtyModeWithEFCore.dll

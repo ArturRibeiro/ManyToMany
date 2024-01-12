@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/bin/Debug/net7.0/EFManyToMany3Tabelas.Infra.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/bin/Debug/net7.0/EFManyToMany3Tabelas.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/bin/Debug/net7.0/EFManyToMany3Tabelas.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/refint/EFManyToMany3Tabelas.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/EFManyToMany3Tabelas.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToMany3Tabelas.Infra/obj/Debug/net7.0/ref/EFManyToMany3Tabelas.Infra.dll

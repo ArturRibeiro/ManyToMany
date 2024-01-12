@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/bin/Debug/net7.0/NHManyToMany.Infra.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/bin/Debug/net7.0/NHManyToMany.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/bin/Debug/net7.0/NHManyToMany.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/refint/NHManyToMany.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/NHManyToMany.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/src/NHManyToMany.Infra/obj/Debug/net7.0/ref/NHManyToMany.Infra.dll

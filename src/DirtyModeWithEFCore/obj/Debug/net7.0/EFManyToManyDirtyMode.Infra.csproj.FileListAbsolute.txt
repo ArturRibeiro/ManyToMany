@@ -1,0 +1,12 @@
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.csproj.AssemblyReference.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.AssemblyInfoInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.AssemblyInfo.cs
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.csproj.CoreCompileInputs.cache
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/bin/Debug/net7.0/EFManyToManyDirtyMode.Infra.deps.json
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/bin/Debug/net7.0/EFManyToManyDirtyMode.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/bin/Debug/net7.0/EFManyToManyDirtyMode.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/refint/EFManyToManyDirtyMode.Infra.dll
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/EFManyToManyDirtyMode.Infra.pdb
+/media/scorpnok/Pessoal/Projetos/Pessoal/Git/Solution1/EFManyToManyDirtyMode.Infra/obj/Debug/net7.0/ref/EFManyToManyDirtyMode.Infra.dll
